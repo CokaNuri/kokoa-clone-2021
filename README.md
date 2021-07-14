@@ -1,3 +1,3 @@
-# Kokoa Clone 2021
+# KOKOA-CLONE 2021
 
-Html and CSS are so much fun!
+HTML & CSS are so much fun!
